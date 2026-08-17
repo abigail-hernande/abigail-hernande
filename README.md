@@ -1,5 +1,6 @@
 # 💫 About Me:
-soy abigail, mido 1,63 tengo 17 años, soy morena<br>actualmente soy estudiante de desarrollo de softwre y estoy interesada en aprender sobre el mundo que me rodea atravez de una computadora, aprendiendo nuevas cosas que me llaman la atencion logrando asi mis metas de conocer lo desconocido y aprender mas sobre lo que me gusta
+soy abigail, mido 1,63 tengo 17 años, soy morena, actualmente soy estudiante de desarrollo de softwre y estoy interesada en aprender sobre el mundo que me rodea atravez de una computadora, aprendiendo nuevas cosas que me llaman la atencion logrando asi mis metas de conocer lo desconocido y aprender mas sobre lo que me gusta
+Soy una estudiante responsable, creativa y con muchas ganas de aprender. Me gusta adquirir nuevos conocimientos, desarrollar mis habilidades y trabajar de manera organizada. Me considero una persona amable, respetuosa y comprometida con mis estudios. Tengo facilidad para trabajar en equipo, cumplir con mis responsabilidades y enfrentar nuevos retos con entusiasmo. Mi objetivo es seguir aprendiendo y prepararme para alcanzar mis metas académicas y profesionales.
 
 
 ## 🌐 Socials:
