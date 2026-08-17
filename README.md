@@ -1,7 +1,7 @@
 # 💫 About Me:
-soy abigail, mido 1,63 tengo 17 años, soy morena, actualmente soy estudiante de desarrollo de softwre y estoy interesada en aprender sobre el mundo que me rodea atravez de una computadora, aprendiendo nuevas cosas que me llaman la atencion logrando asi mis metas de conocer lo desconocido y aprender mas sobre lo que me gusta
-Soy una estudiante responsable, creativa y con muchas ganas de aprender. Me gusta adquirir nuevos conocimientos, desarrollar mis habilidades y trabajar de manera organizada. Me considero una persona amable, respetuosa y comprometida con mis estudios. Tengo facilidad para trabajar en equipo, cumplir con mis responsabilidades y enfrentar nuevos retos con entusiasmo. Mi objetivo es seguir aprendiendo y prepararme para alcanzar mis metas académicas y profesionales.
+Soy Abigail, mido 1,63 m y tengo 17 años. Soy morena y actualmente soy estudiante de Desarrollo de Software. Estoy interesada en aprender sobre el mundo que me rodea a través de una computadora, adquiriendo nuevos conocimientos sobre temas que llaman mi atención. De esta manera, logro acercarme a mis metas de conocer lo desconocido y aprender más sobre lo que me gusta.
 
+Soy una estudiante responsable, creativa y con muchas ganas de aprender. Me gusta adquirir nuevos conocimientos, desarrollar mis habilidades y trabajar de manera organizada. Me considero una persona amable, respetuosa y comprometida con mis estudios. Tengo facilidad para trabajar en equipo, cumplir con mis responsabilidades y enfrentar nuevos retos con entusiasmo. Mi objetivo es seguir aprendiendo y prepararme para alcanzar mis metas académicas y profesionales.
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SARA ABIGAIL PEREIRA HERNANDEZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:10181284@clases.edu.sv) 
